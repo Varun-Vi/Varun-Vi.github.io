@@ -111,7 +111,7 @@ height: 300px;
     }
     .grid-container{
         display: grid;
-        grid-template-columns: auto;
+        grid-template-columns: auto auto;
     }
     .photo{
         height:700px;
