@@ -98,7 +98,7 @@ body{
     background-color: #251B37;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
     #jas{
         display: block;
   margin-left: auto;
